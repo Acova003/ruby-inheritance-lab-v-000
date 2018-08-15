@@ -1,6 +1,6 @@
 class Student < User
   
-  def new 
+  def initialize 
     knowledge = []
   end 
 end
