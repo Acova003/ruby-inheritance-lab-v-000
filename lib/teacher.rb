@@ -5,6 +5,6 @@ class Teacher < User
     
     def teach 
       KNOWLEDGE
-      binding.pry
+      #binding.pry
     end 
 end
