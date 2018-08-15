@@ -6,6 +6,7 @@ class Teacher < User
   def initialize 
     KNOWLEDGE
   end 
+  
   def teach 
     KNOWLEDGE
     #binding.pry
